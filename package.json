@@ -1,0 +1,18 @@
+{
+  "name": "sprite-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "./build.sh" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/minimist": "^1.2.2",
+    "esbuild": "^0.19.2",
+    "minimist": "^1.2.8",
+    "typescript": "^5.2.2"
+  }
+}
